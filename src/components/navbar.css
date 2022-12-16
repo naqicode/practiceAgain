@@ -1,0 +1,35 @@
+header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px 50px;
+    box-shadow: 0 1px 10px gray;
+}
+
+#nav-title {
+    margin-right: auto;
+    font-size: 2em;
+    color: white;
+    background-color: black;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+    
+}
+
+header li {
+    list-style: none;
+    display: inline-block;
+    padding: 0 30px;
+    font-size: 1.2em;
+}
+
+h1 {
+    margin-right: auto;
+}
+
+
+
+
+
